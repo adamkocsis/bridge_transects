@@ -1,7 +1,7 @@
 # Adam wrote me in Erlangen on 2025-10-21.
 
 # you know what to do...
-setwd("/mnt/sky/Dropbox/WorkSpace/2025-10-21_meemarine/")
+setwd("/mnt/sky/Dropbox/WorkSpace/2025-10-21_meemarine/bridge_transects")
 
 library(terra) # basic rasters
 library(fields) # plotting
